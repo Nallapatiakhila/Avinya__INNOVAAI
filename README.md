@@ -34,7 +34,6 @@ Make something deployable, scalable, and usable immediately (demo/pitch ready).
 Encourage clean code, maintainability.
 
 Usage:
-(Assuming features; you can adapt after testing)
 -Go to the app URL.
 -Navigate through the UI: see feature sections / offerings.
 -Use any AI tools built (chat/suggestion/automations).
@@ -49,13 +48,8 @@ eslint.config.js – linting rules
 TypeScript config files for type safety
 
 Future Work / Enhancements:
-You could mention:
 Addition of backend integration (e.g. APIs for AI models).
 More AI modules (image generation, summarization, etc.).
 User accounts, persistent data.
 Customizable user settings.
 Better accessibility, multi-language.
-
-License & Contributors:
--List contributors.
--License (e.g. MIT) if applicable.
